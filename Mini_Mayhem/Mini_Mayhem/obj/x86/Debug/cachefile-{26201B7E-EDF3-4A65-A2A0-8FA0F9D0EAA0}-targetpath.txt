@@ -1,0 +1,16 @@
+Content\objects\_groundForCrates.xnb
+Content\background.xnb
+Content\blank.xnb
+Content\gradient.xnb
+Content\Art\_Ground.xnb
+Content\Art\_box.xnb
+Content\PlayerAnimation\CycleStrip.xnb
+Content\PlayerAnimation\_mcIdleV2.xnb
+Content\Art\_star.xnb
+Content\Fireballs\fireball.xnb
+Content\Fireballs\fireballexpolsion.xnb
+Content\Enemies\robot1.xnb
+Content\BGArt\_Mountains.xnb
+Content\BGArt\_trees.xnb
+Content\gamefont.xnb
+Content\menufont.xnb

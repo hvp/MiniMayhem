@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>objects\_groundForCrates.png</Source>
+      <Name>objects\_groundForCrates</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_Mayhem\bin\x86\Debug\Content\objects\_groundForCrates.xnb</Output>
+      <Time>2013-06-09T17:22:59+01:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_Mayhem\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2013-06-28T21:44:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_Mayhem\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2013-06-28T21:44:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_Mayhem\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Time>2013-06-28T21:44:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\_Ground.png</Source>
+      <Name>Art\_Ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_Mayhem\bin\x86\Debug\Content\Art\_Ground.xnb</Output>
+      <Time>2013-06-28T22:21:19+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\_box.png</Source>
+      <Name>Art\_box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_Mayhem\bin\x86\Debug\Content\Art\_box.xnb</Output>
+      <Time>2013-06-28T23:10:43+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerAnimation\CycleStrip.png</Source>
+      <Name>PlayerAnimation\CycleStrip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_Mayhem\bin\x86\Debug\Content\PlayerAnimation\CycleStrip.xnb</Output>
+      <Time>2013-06-28T23:49:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerAnimation\_mcIdleV2.png</Source>
+      <Name>PlayerAnimation\_mcIdleV2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_Mayhem\bin\x86\Debug\Content\PlayerAnimation\_mcIdleV2.xnb</Output>
+      <Time>2013-06-28T23:49:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Art\_star.png</Source>
+      <Name>Art\_star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_Mayhem\bin\x86\Debug\Content\Art\_star.xnb</Output>
+      <Time>2013-06-30T13:51:53+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fireballs\fireball.png</Source>
+      <Name>Fireballs\fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_Mayhem\bin\x86\Debug\Content\Fireballs\fireball.xnb</Output>
+      <Time>2013-07-01T18:15:37+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fireballs\fireballexpolsion.png</Source>
+      <Name>Fireballs\fireballexpolsion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_Mayhem\bin\x86\Debug\Content\Fireballs\fireballexpolsion.xnb</Output>
+      <Time>2013-07-01T18:15:37+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\robot1.png</Source>
+      <Name>Enemies\robot1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_Mayhem\bin\x86\Debug\Content\Enemies\robot1.xnb</Output>
+      <Time>2013-07-02T21:42:59+01:00</Time>
+    </Item>
+    <Item>
+      <Source>BGArt\_Mountains.png</Source>
+      <Name>BGArt\_Mountains</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_Mayhem\bin\x86\Debug\Content\BGArt\_Mountains.xnb</Output>
+      <Time>2013-07-02T22:05:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>BGArt\_trees.png</Source>
+      <Name>BGArt\_trees</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_Mayhem\bin\x86\Debug\Content\BGArt\_trees.xnb</Output>
+      <Time>2013-07-03T16:17:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_Mayhem\bin\x86\Debug\Content\gamefont.xnb</Output>
+      <Time>2013-07-01T18:40:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_Mayhem\bin\x86\Debug\Content\menufont.xnb</Output>
+      <Time>2013-06-28T22:08:45+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_MayhemContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_Mayhem\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_MayhemContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Dropbox\A Games\Mini-Mayhem\Mini_Mayhem\Mini_Mayhem\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-07T02:30:55.8899781+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
